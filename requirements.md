@@ -54,6 +54,7 @@ Handles user registration, login, password management, and role-based access con
     }
   }
 }
+```
 Validation Rules
 Email must be valid and unique.
 
@@ -97,6 +98,7 @@ Create Property
     "property_id": 456
   }
 }
+```
 Validation Rules
 Price must be positive decimal.
 
@@ -124,6 +126,7 @@ Endpoint	Method	Description
 
 Input / Output Specifications
 Create Booking
+```json
 {
   "input": {
     "property_id": 456,
@@ -138,6 +141,7 @@ Create Booking
     "status": "confirmed"
   }
 }
+```
 Validation Rules
 Dates must be valid and not overlap existing bookings.
 
@@ -150,7 +154,7 @@ Booking creation must complete within 500ms.
 
 System supports 1000 concurrent bookings without data conflicts.
 
-📌 Notes
+**Notes**
 All APIs must use HTTPS.
 
 JWT token required for authenticated endpoints.
