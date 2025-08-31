@@ -1,6 +1,6 @@
 # Backend Feature Requirement Specifications
 
-## 📌 Objective
+## Objective
 Document the **technical and functional requirements** for key backend features of the Airbnb Clone.  
 This includes **API endpoints**, **input/output specifications**, **validation rules**, and **performance criteria**.
 
