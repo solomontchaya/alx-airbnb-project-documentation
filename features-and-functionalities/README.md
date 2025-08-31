@@ -1,12 +1,12 @@
-# 0. Documenting Project Features and Functionalities
+# Documenting Project Features and Functionalities
 
-## 🎯 Objective
+## Objective
 Identify and document the key features and functionalities of the **Airbnb Clone backend**.  
 This includes user authentication, property management, booking system, payments, and other core modules that make the system functional, secure, and scalable.
 
 ---
 
-## 📚 Instructions
+## Instructions
 1. Review the [Project Requirements](../README.md) for the Airbnb Clone backend.  
 2. Using **Draw.io**, create a **Use Case Diagram** that captures:
    - User authentication
@@ -21,7 +21,7 @@ This includes user authentication, property management, booking system, payments
 
 ---
 
-## 🔑 Key Features and Functionalities
+## Key Features and Functionalities
 
 ### 1. User Management
 - User registration (guest/host roles)
@@ -76,22 +76,9 @@ This includes user authentication, property management, booking system, payments
 
 ---
 
-## 🚀 Non-Functional Requirements
+## Non-Functional Requirements
 - Scalability (modular, load balancing, horizontal scaling)  
 - Security (encryption, rate limiting, firewalls)  
 - Performance optimization (Redis caching, query optimization)  
 - Testing (unit, integration, automated API tests)  
 
----
-
-## 📂 Deliverable
-- **Diagram File**:  
-  `features-and-functionalities/use-case-diagram.png`  
-
-- **This Documentation File**:  
-  `features-and-functionalities/README.md`  
-
----
-
-✅ Once completed, commit and push to:  
-**Repo:** `alx-airbnb-project-documentation`  
