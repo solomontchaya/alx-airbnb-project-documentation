@@ -37,6 +37,8 @@ Handles user registration, login, password management, and role-based access con
   }
 }
 Login
+**Register**
+```json
 {
   "input": {
     "email": "john@example.com",
