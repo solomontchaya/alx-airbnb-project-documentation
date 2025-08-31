@@ -69,7 +69,7 @@ JWT token expiration configurable (default 1 hour).
 
 Support at least 1000 concurrent logins.
 
-2. Property Management
+## 2. Property Management
 Description
 Allows hosts to create, update, delete, and manage property listings.
 
