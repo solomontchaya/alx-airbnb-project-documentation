@@ -1,12 +1,12 @@
 # 1. Design the Use Case Diagram of the Features and Functionalities
 
-## 📌 Objective
+## Objective
 The purpose of this task is to visualize how different actors interact with the Airbnb Clone backend system.  
 The **use case diagram** provides a high-level view of the system's features, functionalities, and user interactions.
 
 ---
 
-## 👥 Actors
+## Actors
 - **Guest User**  
   Can browse properties, register, log in, and make bookings.  
 
@@ -17,12 +17,9 @@ The **use case diagram** provides a high-level view of the system's features, fu
 - **Admin**  
   Manages users, properties, bookings, and payments across the platform.  
 
-- **Payment Gateway**  
-  External service that handles secure payment transactions.
-
 ---
 
-## 🎯 Key Use Cases
+## Key Use Cases
 The following use cases are captured in the diagram:
 
 ### 1. User Authentication
