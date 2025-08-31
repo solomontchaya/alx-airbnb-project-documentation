@@ -36,8 +36,8 @@ Handles user registration, login, password management, and role-based access con
     "verification_sent": true
   }
 }
-Login
-**Register**
+```
+**Login**
 ```json
 {
   "input": {
